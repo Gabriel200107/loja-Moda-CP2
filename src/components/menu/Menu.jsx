@@ -4,7 +4,7 @@ import Home from '../home/Home';
 import ModaInfantil from '../modaInfantil/ModaInfantil';
 import ModaFeminina from '../modaFeminina/ModaFeminina';
 import ModaMasculina from '../modaMasculina/ModaMasculina';
-import Rodape from '../rodape/Rodape';
+import Rodape from '../footer/Footer';
 import Sobre from '../sobre/Sobre';
 
 
